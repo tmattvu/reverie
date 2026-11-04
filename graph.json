@@ -1,0 +1,277 @@
+{
+  "schema": "reverie.graph/v0",
+  "meta": {
+    "next_node": 5,
+    "next_edge": 18,
+    "last_reflect_at": null
+  },
+  "nodes": {
+    "user": {
+      "kind": "user",
+      "name": "me",
+      "aliases": [
+        "me"
+      ],
+      "needs_review": false
+    },
+    "topic:morocco-trip-for-two-december-2026": {
+      "kind": "topic",
+      "name": "Morocco Trip for Two – December 2026",
+      "aliases": [],
+      "needs_review": false
+    },
+    "n1": {
+      "kind": "place",
+      "name": "Marrakech",
+      "aliases": [
+        "RAK"
+      ],
+      "needs_review": false
+    },
+    "n2": {
+      "kind": "place",
+      "name": "Essaouira",
+      "aliases": [],
+      "needs_review": false
+    },
+    "n3": {
+      "kind": "place",
+      "name": "New York area",
+      "aliases": [
+        "NYC area",
+        "EWR",
+        "JFK"
+      ],
+      "needs_review": false
+    },
+    "n4": {
+      "kind": "person",
+      "name": "user's girlfriend",
+      "aliases": [],
+      "needs_review": false
+    }
+  },
+  "edges": [
+    {
+      "id": "e1",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:destination",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "o": "n1"
+    },
+    {
+      "id": "e2",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:destination",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": "e1",
+      "o": "n2"
+    },
+    {
+      "id": "e3",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:departure_area",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "o": "n3"
+    },
+    {
+      "id": "e4",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:travel_month",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "December 2026"
+    },
+    {
+      "id": "e5",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:trip_duration",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "7 days"
+    },
+    {
+      "id": "e6",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:party_size",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "2"
+    },
+    {
+      "id": "e7",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "HAS:budget_estimate",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "$1,770–$2,950 for both, target ~$2,400 (excluding international flights)"
+    },
+    {
+      "id": "e8",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "DECIDED",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "Prioritize Essaouira/coast; skip Fes and Sahara on this short trip"
+    },
+    {
+      "id": "e9",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "DECIDED",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "Spend final night in Marrakech before international departure to avoid same-day long transfer from Essaouira"
+    },
+    {
+      "id": "e10",
+      "s": "topic:morocco-trip-for-two-december-2026",
+      "p": "DECIDED",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "Favor boutique riads, seafood, artisan shopping, a special dinner and couples' hammam"
+    },
+    {
+      "id": "e11",
+      "s": "n4",
+      "p": "INVOLVED_IN",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "topic",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "o": "topic:morocco-trip-for-two-december-2026"
+    },
+    {
+      "id": "e12",
+      "s": "user",
+      "p": "PREFERS",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "global",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "not waking up early / late starts"
+    },
+    {
+      "id": "e13",
+      "s": "user",
+      "p": "PREFERS",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "global",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "non-touristy activities"
+    },
+    {
+      "id": "e14",
+      "s": "user",
+      "p": "PREFERS",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "global",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "food and shopping"
+    },
+    {
+      "id": "e15",
+      "s": "user",
+      "p": "PREFERS",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "global",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "romantic experiences when traveling with girlfriend"
+    },
+    {
+      "id": "e16",
+      "s": "user",
+      "p": "PREFERS",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "global",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "value": "relaxed coastal escapes with time by the ocean"
+    },
+    {
+      "id": "e17",
+      "s": "user",
+      "p": "HAS:home_area",
+      "topic": "morocco-trip-for-two-december-2026",
+      "scope": "global",
+      "since": "2026-11-04T15:11:59Z",
+      "sources": [
+        "chatgpt @ 2026-11-04T15:11:59Z"
+      ],
+      "superseded_by": null,
+      "o": "n3"
+    }
+  ]
+}
