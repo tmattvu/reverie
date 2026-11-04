@@ -1,0 +1,31 @@
+{
+  "id": "20261104T152151029315Z-chatgpt-8b41f2",
+  "agent": "chatgpt",
+  "at": "2026-11-04T15:21:51Z",
+  "summary": "Checkpoint reaffirmed: seven-day Morocco trip for two in December 2026, flexible dates, departing New York area. User preferences: late starts, avoid touristy activities, prioritize food, shopping, romantic experiences and a relaxed coastal escape with maximum time by the ocean. Working itinerary: one night Marrakech on arrival, five nights Essaouira, one final night Marrakech before flying home. Tentative window previously discussed Dec 3–11 flights / Dec 4–11 stay, not confirmed. Comfortable boutique budget excluding international flights estimated $1,770–$2,950 for both, target about $2,400. Compare EWR–RAK nonstop if scheduled on selected dates against one-stop options. No bookings made; live schedules, fares and accommodation availability still need verification.",
+  "decisions": [
+    "Prioritize Essaouira and skip Fes/Sahara for this short trip.",
+    "Stay in Marrakech the night before international departure to avoid a same-day long transfer from the coast.",
+    "Choose boutique riads and focus on seafood, artisan shopping, a special dinner and couples' hammam."
+  ],
+  "preferences": [
+    "User prefers not to wake up early.",
+    "User prefers non-touristy activities.",
+    "User likes food and shopping.",
+    "User is traveling with their girlfriend and wants romantic experiences.",
+    "User prefers a relaxed coastal escape with more time by the ocean.",
+    "User prefers comfortable boutique accommodation; budget excludes international flights.",
+    "User departs from the New York area and is flexible by a few days in December 2026."
+  ],
+  "next_steps": [
+    "Verify exact flight schedules and fares for flexible December 2026 dates from EWR/JFK to Marrakech.",
+    "Confirm exact dates and book boutique riads.",
+    "Choose transfers and finalize restaurants and shopping stops."
+  ],
+  "open_questions": [
+    "Exact dates are not confirmed.",
+    "Live flight prices, schedules and hotel availability have not been verified.",
+    "No flights or accommodation have been booked."
+  ],
+  "verbatim": {}
+}
