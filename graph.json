@@ -1,8 +1,8 @@
 {
   "schema": "reverie.graph/v0",
   "meta": {
-    "next_node": 5,
-    "next_edge": 18,
+    "next_node": 9,
+    "next_edge": 26,
     "last_reflect_at": null
   },
   "nodes": {
@@ -47,6 +47,41 @@
     "n4": {
       "kind": "person",
       "name": "user's girlfriend",
+      "aliases": [],
+      "needs_review": false
+    },
+    "topic:vietnam-trip-december-2026": {
+      "kind": "topic",
+      "name": "Vietnam Trip – December 2026",
+      "aliases": [],
+      "needs_review": false
+    },
+    "n5": {
+      "kind": "place",
+      "name": "Ho Chi Minh City",
+      "aliases": [
+        "Saigon",
+        "HCMC"
+      ],
+      "needs_review": false
+    },
+    "n6": {
+      "kind": "place",
+      "name": "RDU",
+      "aliases": [
+        "Raleigh-Durham International Airport"
+      ],
+      "needs_review": false
+    },
+    "n7": {
+      "kind": "place",
+      "name": "District 1",
+      "aliases": [],
+      "needs_review": false
+    },
+    "n8": {
+      "kind": "person",
+      "name": "Matt",
       "aliases": [],
       "needs_review": false
     }
@@ -272,6 +307,110 @@
       ],
       "superseded_by": null,
       "o": "n3"
+    },
+    {
+      "id": "e18",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:destination",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "o": "n5"
+    },
+    {
+      "id": "e19",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:departure_airport",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "o": "n6"
+    },
+    {
+      "id": "e20",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:neighborhood",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "o": "n7"
+    },
+    {
+      "id": "e21",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:duration",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "value": "3 full days"
+    },
+    {
+      "id": "e22",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:hotel_budget",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "value": "$160–$250+/night"
+    },
+    {
+      "id": "e23",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:hotel_style",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "value": "upscale"
+    },
+    {
+      "id": "e24",
+      "s": "topic:vietnam-trip-december-2026",
+      "p": "HAS:timing_consideration",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "value": "Tet Feb 4–10, 2027 causes closures and higher prices"
+    },
+    {
+      "id": "e25",
+      "s": "n8",
+      "p": "INVOLVED_IN",
+      "topic": "vietnam-trip-december-2026",
+      "scope": "topic",
+      "since": "2026-11-19T19:55:00Z",
+      "sources": [
+        "claude @ 2026-11-19T19:55:00Z"
+      ],
+      "superseded_by": null,
+      "o": "topic:vietnam-trip-december-2026"
     }
   ]
 }
