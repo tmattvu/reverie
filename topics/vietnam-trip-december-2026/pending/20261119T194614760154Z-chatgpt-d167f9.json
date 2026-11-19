@@ -1,0 +1,24 @@
+{
+  "id": "20261119T194614760154Z-chatgpt-d167f9",
+  "agent": "chatgpt",
+  "at": "2026-11-19T19:46:14Z",
+  "summary": "Destination and departure are confirmed: 3 full days in Ho Chi Minh City in December 2026, flying from Raleigh-Durham (RDU), upscale hotel budget $160–$250+ per night. Research found no nonstop RDU–SGN flights; indicative early-December round-trip fares around $1,295–$1,340 per person with two stops. Suggested Dec 1–7 as a candidate window to allow for long-haul travel and three full days on the ground, with four hotel nights likely around Dec 3–7. Shortlisted District 1 hotels include Caravelle Saigon, Fusion Original Saigon Centre, Hilton Saigon, and Sedona Suites. No flights or hotel booked.",
+  "decisions": [
+    "Use RDU as departure airport.",
+    "Use an upscale District 1 hotel within roughly $160–$250+ per night.",
+    "Allow long-haul travel days outside the three full days in Vietnam."
+  ],
+  "preferences": [],
+  "next_steps": [
+    "Compare exact flight schedules and fare rules for the preferred dates before booking.",
+    "Verify hotel rates and availability for the full stay.",
+    "Confirm whether the traveler is solo or sharing the room if that affects booking."
+  ],
+  "open_questions": [
+    "Final dates not selected.",
+    "Exact flight itinerary and total duration not confirmed.",
+    "No bookings made."
+  ],
+  "verbatim": {},
+  "pending_since": "2026-11-19T19:44:43Z"
+}
