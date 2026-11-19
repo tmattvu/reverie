@@ -1,0 +1,24 @@
+{
+  "id": "20261119T194443136434Z-chatgpt-a21b02",
+  "agent": "chatgpt",
+  "at": "2026-11-19T19:44:43Z",
+  "summary": "Planning a flexible 3-day Vietnam trip in December 2026. The user wants late starts, non-touristy experiences, and streetwear shopping. Ho Chi Minh City has been proposed as the best base, with a focus on Vietnamese independent labels, vintage shops, local food, and relaxed evenings. Destination and departure airport are not yet confirmed.",
+  "decisions": [
+    "Proposed Ho Chi Minh City as the base because it best matches the streetwear-shopping priority for a short trip."
+  ],
+  "preferences": [
+    "The user prefers not to wake up early.",
+    "The user dislikes touristy activities.",
+    "The user enjoys streetwear shopping."
+  ],
+  "next_steps": [
+    "Confirm whether Ho Chi Minh City is the preferred destination.",
+    "Once confirmed, refine the three-day route and check December 2026 flight options from the user's departure airport."
+  ],
+  "open_questions": [
+    "Is Ho Chi Minh City the preferred base?",
+    "What airport will the user depart from?"
+  ],
+  "verbatim": {},
+  "pending_since": "2026-11-19T19:44:43Z"
+}
