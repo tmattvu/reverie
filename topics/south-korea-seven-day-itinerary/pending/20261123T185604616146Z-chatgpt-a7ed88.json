@@ -1,0 +1,27 @@
+{
+  "id": "20261123T185604616146Z-chatgpt-a7ed88",
+  "agent": "chatgpt",
+  "at": "2026-11-23T18:56:04Z",
+  "summary": "Planning a seven-day South Korea trip, with a proposed route of five days in Seoul and two in Busan. The itinerary is tailored around late starts around noon, food, streetwear shopping, avoiding overly touristy activities, including only one or two major attractions, and prioritizing viewpoints. No travel dates, flights, hotels, or bookings have been selected.",
+  "decisions": [
+    "Proposed itinerary split: five days in Seoul and two days in Busan."
+  ],
+  "preferences": [
+    "User prefers waking around 11 AM–12 PM and does not like early starts.",
+    "User prioritizes food and streetwear shopping when traveling.",
+    "User prefers avoiding very touristy activities, while still seeing one or two of the most popular attractions.",
+    "User particularly enjoys viewpoints."
+  ],
+  "next_steps": [
+    "Confirm travel dates and departure airport.",
+    "Confirm whether the user wants to keep the Seoul–Busan split or spend all seven days in Seoul.",
+    "Refine hotel areas, transport, restaurants, and shopping stops once dates are known."
+  ],
+  "open_questions": [
+    "What dates or month is the trip?",
+    "What airport will the user depart from?",
+    "Will the user fly home from Busan or return to Seoul?"
+  ],
+  "verbatim": {},
+  "pending_since": "2026-11-23T18:56:04Z"
+}
