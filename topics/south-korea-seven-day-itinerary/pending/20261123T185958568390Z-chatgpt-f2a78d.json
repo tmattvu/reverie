@@ -1,0 +1,30 @@
+{
+  "id": "20261123T185958568390Z-chatgpt-f2a78d",
+  "agent": "chatgpt",
+  "at": "2026-11-23T18:59:58Z",
+  "summary": "Trip dates selected as Dec 5–13, 2026 for one traveler departing RDU, with seven sightseeing days and a return travel day. Ground plan: arrive Seoul Dec 6; Seoul Dec 6–10 (five nights); Busan Dec 11–12 (two nights); return to Seoul/ICN Dec 13 for flight home. Live search surfaced RDU–ICN Dec 5–12 fares around $1,019–$1,099, but that return date is too early for seven sightseeing days. An exact Dec 5–13 fare and dated hotel availability for the full stays were not confirmed. Amanti Hotel Seoul sample Expedia rate on Dec 9 was ₩150,000 before taxes / ₩165,000 total for one night, but this is not a quote for the full Dec 6–11 stay. No bookings made.",
+  "decisions": [
+    "One traveler.",
+    "Target outbound date Dec 5, 2026; return date Dec 13, 2026 to retain seven sightseeing days.",
+    "Five Seoul hotel nights Dec 6–11 and two Busan hotel nights Dec 11–13."
+  ],
+  "preferences": [
+    "User prefers late starts around noon and dislikes early mornings.",
+    "User prioritizes food and streetwear shopping.",
+    "User prefers avoiding overly touristy activities while seeing one or two major attractions.",
+    "User particularly enjoys viewpoints.",
+    "User's hotel budget is $100–160 per night."
+  ],
+  "next_steps": [
+    "Verify and book RDU–ICN flights for Dec 5–13, 2026; current public search results did not confirm an exact fare for these dates.",
+    "Check dated availability for Amanti Hotel Seoul or Nine Brick Hotel for Dec 6–11.",
+    "Check dated availability for Kent Hotel Gwangalli or Central Bay Hotel for Dec 11–13.",
+    "If returning from Busan on Dec 13, book a KTX to Seoul with sufficient buffer before the international flight, or consider an additional Seoul airport-area night."
+  ],
+  "open_questions": [
+    "Exact RDU–ICN fare and flight times for Dec 5–13 remain unverified.",
+    "Exact hotel inventory and final taxes for the requested dates remain unverified."
+  ],
+  "verbatim": {},
+  "pending_since": "2026-11-23T18:56:04Z"
+}
