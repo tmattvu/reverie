@@ -1,0 +1,34 @@
+{
+  "id": "20261123T191938268943Z-claude-bce1b1",
+  "agent": "claude",
+  "at": "2026-11-23T19:19:38Z",
+  "summary": "Matt is planning a 7-day solo trip to Japan, flying from Raleigh-Durham (RDU). The trip moved from December 8–15, 2026 to the first week of March 2027. Matt confirmed the dates: leave RDU Mon Mar 1, 2027 and arrive in Tokyo Tue Mar 2. Tokyo hotel nights are Mar 2–6, with checkout Mar 7. Shinkansen to Osaka on Sun Mar 7. Osaka hotel nights are Mar 7–8, with checkout Mar 9. Fly home from Osaka (KIX) Tue Mar 9. Matt also confirmed open-jaw flights: into Tokyo (HND preferred, or NRT) and home from KIX. That makes 5 nights in Tokyo (Shibuya base) and 2 in Osaka, 7 hotel nights total. Early March falls before cherry blossom season, so expect fewer crowds and lower prices, but chilly weather. Hotel budget is USD $150–200/night, upscale boutique style. Interests: streetwear, sneaker and vintage shopping, Japanese food, and nightlife. Matt wakes around 11 AM–12 PM and wants only 1–2 touristy activities. Days: Day 1 (Mar 2) arrive and settle in Shibuya; Day 2 (Mar 3) Harajuku/Omotesando/Cat Street; Day 3 (Mar 4) Shimokitazawa vintage; Day 4 (Mar 5) Asakusa/Senso-ji plus Shibuya Sky and Shibuya sneaker shops; Day 5 (Mar 6) Koenji vintage and food plus last Tokyo shopping; Day 6 (Mar 7) Shinkansen to Osaka, then Amerikamura and Dotonbori; Day 7 (Mar 8) Nakazakicho and Shinsaibashi, then Ura-Namba nightlife. There are no nonstops RDU–Tokyo or KIX–RDU. Nov 23 research found no exact-date March 2027 fares. KAYAK lists March as one of the most expensive months on RDU–Tokyo, averaging about $717 round trip. An Expedia RDU–NRT sale from $761 only covers departures through Feb 18, 2027. Travelocity shows RDU–KIX round trips at $964–$1,132. The open-jaw fare still needs a multi-city search. December fares (AA $945–$1,099, United $970) are stale. Tokyo hotels, using December one-night quotes that must be re-checked for Mar 2–7: sequence MIYASHITA PARK is the top pick (about $187/night with taxes in December; 4-star; design-forward; rooftop bar; 3-min walk to Shibuya Metro Exit B1; 17:00 check-in, 14:00 checkout). Shibuya Granbell is the value backup (about $130 with taxes). Hotel Indigo Tokyo Shibuya is over budget (about $348). Osaka hotel candidates, with no prices verified yet: Hotel the Grandee Shinsaibashi (mid-range boutique with concept rooms, 5-min walk to Shinsaibashi Station, 10-min walk to Namba, near Dotonbori; best style fit); Hotel 88 Shinsaibashi (3-star boutique, highly rated, 4-min walk to the Glico sign); Randor Hotel Osaka Suites (suite-only, more luxurious, likely above budget). Previous overall budget estimate was $2,655–$3,650 including a $300–600 shopping allowance; it needs to be re-estimated with Osaka and the Shinkansen. No bookings made.",
+  "decisions": [
+    "Confirmed dates: depart RDU Mon Mar 1, 2027; arrive Tokyo Tue Mar 2; Tokyo nights Mar 2–6; Osaka nights Mar 7–8; fly home from KIX Tue Mar 9.",
+    "Confirmed open-jaw flights: into Tokyo (HND preferred, or NRT) and home from Osaka KIX.",
+    "Solo traveler departing RDU, 7 hotel nights.",
+    "Split: 5 nights Tokyo (Shibuya base), 2 nights Osaka (Days 6–7).",
+    "Hotel budget $150–200 per night; upscale boutique style.",
+    "Top Tokyo hotel pick: sequence MIYASHITA PARK (5 nights), if the rate fits; Shibuya Granbell is the value backup; Hotel Indigo is over budget.",
+    "Shinkansen from Tokyo to Osaka on Day 6 (Mar 7)."
+  ],
+  "preferences": [
+    "Matt prefers streetwear, sneaker and vintage shopping, Japanese food and nightlife.",
+    "Matt wakes around 11 AM–12 PM and wants only 1–2 touristy activities (Asakusa/Senso-ji and Shibuya Sky).",
+    "Matt prefers an upscale boutique hotel.",
+    "Matt prefers Haneda (HND) if its fare is similar to Narita (NRT)."
+  ],
+  "next_steps": [
+    "Run a multi-city flight search: RDU to HND/NRT on Mar 1 and KIX to RDU on Mar 9.",
+    "Re-check rates at sequence MIYASHITA PARK and Shibuya Granbell for Mar 2–7.",
+    "Price Osaka hotels for Mar 7–9: Hotel the Grandee Shinsaibashi, Hotel 88 Shinsaibashi, Randor Hotel Osaka Suites.",
+    "Re-estimate the overall budget, including the Shinkansen."
+  ],
+  "open_questions": [
+    "Does Matt prefer Haneda if its fare is moderately higher than Narita?"
+  ],
+  "verbatim": {
+    "itinerary_v3": "Mon Mar 1: Depart RDU\nDay 1 (Tue Mar 2): Arrive Tokyo; settle into Shibuya (easy first night, quick sneaker-shop look)\nDay 2 (Wed Mar 3): Harajuku, Omotesando & Cat Street (streetwear/boutiques)\nDay 3 (Thu Mar 4): Shimokitazawa (vintage)\nDay 4 (Fri Mar 5): Asakusa / Senso-ji; Shibuya Sky + Shibuya sneaker shops\nDay 5 (Sat Mar 6): Koenji (vintage + food), last Tokyo shopping\nDay 6 (Sun Mar 7): Shinkansen to Osaka; Amerikamura; Dotonbori (food/nightlife)\nDay 7 (Mon Mar 8): Nakazakicho & Shinsaibashi (vintage/shopping); Ura-Namba (bars/izakaya)\nTue Mar 9: Fly home from Osaka (KIX)"
+  },
+  "pending_since": "2026-11-23T19:12:52Z"
+}
