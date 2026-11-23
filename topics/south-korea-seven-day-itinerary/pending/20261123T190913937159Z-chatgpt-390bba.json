@@ -1,0 +1,26 @@
+{
+  "id": "20261123T190913937159Z-chatgpt-390bba",
+  "agent": "chatgpt",
+  "at": "2026-11-23T19:09:13Z",
+  "summary": "South Korea trip for one traveler, Dec 5–13, 2026, departing RDU. Dec 5 outbound travel; Dec 6–10 Seoul (5 hotel nights? Actual Seoul nights Dec 6,7,8,9,10 = checkout Dec 11); Dec 11–12 Busan (2 nights, checkout Dec 13); Dec 13 return travel. User asked to dedicate one sightseeing day to very touristy activities; updated plan makes Dec 9 the classic tourist day in Seoul: Gyeongbokgung Palace, Bukchon Hanok Village, Insadong, Myeongdong, and N Seoul Tower for the evening view. Remaining days prioritize food, streetwear shopping, and neighborhoods, with late starts around noon. Hotels previously suggested: Amanti Hotel Seoul (Dec 6–11) and Kent Hotel Gwangalli (Dec 11–13), but exact inventory and prices unverified. Flight RDU–ICN Dec 5–13 exact fare unverified; earlier indicative fares were not confirmed for exact dates. No bookings made.",
+  "decisions": [
+    "User wants one full day of very touristy activities; assign December 9 in Seoul.",
+    "Tourist day sequence: Gyeongbokgung Palace, Bukchon Hanok Village, Insadong, Myeongdong, N Seoul Tower.",
+    "Retain food, streetwear shopping, late starts and Busan coastal time on other days."
+  ],
+  "preferences": [
+    "User prefers late starts around noon and dislikes early mornings.",
+    "User prioritizes food and streetwear shopping.",
+    "User generally prefers avoiding overly touristy activities but wants 1–2 iconic attractions.",
+    "User enjoys viewpoints.",
+    "User's hotel budget is $100–160 per night."
+  ],
+  "next_steps": [],
+  "open_questions": [
+    "Exact Dec 5–13 RDU–ICN flight fare and flight times remain unverified.",
+    "Exact hotel inventory and final taxes for Amanti Hotel Seoul and Kent Hotel Gwangalli remain unverified.",
+    "No travel components have been booked."
+  ],
+  "verbatim": {},
+  "pending_since": "2026-11-23T18:56:04Z"
+}
